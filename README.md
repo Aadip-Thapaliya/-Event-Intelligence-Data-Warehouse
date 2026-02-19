@@ -197,4 +197,4 @@ Free tier: 5,000 calls/day — more than enough for development.
 
 **Aadip Thapaliya**  
 Data Science Student @ University of Europe for Applied Sciences  
-[LinkedIn](https://linkedin.com/in/aadip) · [GitHub](https://github.com/Aadip)
+[LinkedIn](https://www.linkedin.com/in/aadipthapaliya/) · [GitHub](https://github.com/Aadip)
